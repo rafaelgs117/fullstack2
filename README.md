@@ -49,4 +49,4 @@ Abra o endereço mostrado pelo Vite (normalmente `http://localhost:5173`) e entr
 - `GET/POST/PUT/DELETE /api/contatos` — CRUD protegido por JWT; Joi nas rotas POST/PUT.
 - `GET /api/health` — verifica conexão PostgreSQL.
 
-Consulte `backend/README.md` para exemplos completos do Postman e roteiro de comprovação.
+
